@@ -1,0 +1,5 @@
+tornado
+dnspython
+pymongo
+configparser
+watson_developer_cloud
