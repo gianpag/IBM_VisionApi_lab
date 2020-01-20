@@ -10,4 +10,4 @@ It shows how to use MongoDB *ChangeStreams* to enrich a MongoDB document by:
 
 In order to be able to succesfully run the python code, make sure the dependencies listed in the requirements.txt are satisfied:
 
-> pip install -r FinishedSampleCode/requirements.txt
+> pip install -r requirements.txt
