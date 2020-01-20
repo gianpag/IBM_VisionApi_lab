@@ -1,5 +1,3 @@
-**
-
 ## MongoDB - IBM Vision API Lab
 
 This lab is based on the work done by @graboskyc and and adapted to work with the IBM Watson Visual Recognition API.
